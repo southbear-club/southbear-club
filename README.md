@@ -17,4 +17,4 @@
 -->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=southbear-club&count_private=true&show_icons=true&theme=radical&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=southbear-club&layout=compact&theme=radical&hide=objective-c,makefile)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=southbear-club&layout=compact&theme=radical&hide=makefile)](https://github.com/anuraghazra/github-readme-stats)
