@@ -1,6 +1,7 @@
 ### Hi there, I'm 南极熊 👋
 
 欢迎关注微信公众号：**南极熊club**，致力于分享软件技术。
+![二维码](https://github.com/southbear-club/articles/blob/master/pic/qrcode_for_gh_2bfca46cb40f_258.jpg)
 
 - 🔭 I’m currently working on C/C++
 - 🌱 I’m currently learning net/c++/python/web
