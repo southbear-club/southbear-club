@@ -16,4 +16,4 @@
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=southbear-club&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=southbear-club&count_private=true&show_icons=true&theme=radical&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
